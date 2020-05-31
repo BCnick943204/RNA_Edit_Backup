@@ -1,0 +1,12 @@
+{
+        "plugin_data": {
+                "plugin_name": "RNAfold",
+                "plugin_desc": "RNAfold.exe as provided by ViennaRNA"
+        },
+        "options": [{
+                "command": "--noconv",
+                "pass": {
+                        "Do you want non-standard nucleotides to be converted?": 0.0
+                }
+        }]
+}
